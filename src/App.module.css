@@ -1,0 +1,30 @@
+.p1{
+    color: hsl(28, 10%, 53%);
+    font-size:11px;
+}
+.div{
+    display:flex;
+    justify-content: space-between;
+}
+.h1{
+  margin-top: -10px;
+}
+.p2{
+   font-weight: bold;
+   font-size:15px;
+   margin-bottom: -10px;
+}
+.h3{
+ font-size:27px;
+}
+
+/*
+
+- Soft red: hsl(10, 79%, 65%)
+- Cyan: hsl(186, 34%, 60%)
+
+
+- Dark brown: hsl(25, 47%, 15%)
+- Medium brown: hsl(28, 10%, 53%)
+- Cream: hsl(27, 66%, 92%)
+- Very pale orange: hsl(33, 100%, 98%) */
